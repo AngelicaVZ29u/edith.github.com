@@ -1,2 +1,2 @@
-# edith.github.com
+# edith.github.io
 TECNOLOCHICAS
